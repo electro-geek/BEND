@@ -1,0 +1,19 @@
+{
+  "name": "fullstackbasics",
+  "version": "1.0.0",
+  "description": "something",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nose"
+  ],
+  "author": "Mritunjay Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "dotenv": "^16.4.5"
+  }
+}
