@@ -15,7 +15,7 @@ app.get('/login', (req, res) => {
 })
 
 app.get('/twitter', (req, res) => {
-    res.send('mritunjay.com')
+    res.send(https://https://twitter.com/pycopstwt)
 })
 
 app.listen(process.env.PORT, () => {
